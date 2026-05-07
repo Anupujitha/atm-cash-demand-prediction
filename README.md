@@ -38,7 +38,7 @@ This project predicts ATM cash demand using Machine Learning and optimizes refil
   ## Output Screenshots
 
 ### Prediction Graph
-![Prediction Graph](screenshot(68).png)
+![Prediction Graph](screenshot (68).png)
 
 ### Route Optimization Map
-![Route Map](screenshot(69).png)
+![Route Map](screenshot (69).png)
