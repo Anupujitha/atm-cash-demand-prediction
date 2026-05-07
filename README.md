@@ -35,3 +35,10 @@ This project predicts ATM cash demand using Machine Learning and optimizes refil
 - Real-time ATM monitoring
 - GPS integration
 - Deep learning forecasting
+  ## Output Screenshots
+
+### Prediction Graph
+![Prediction Graph](screenshot(68).png)
+
+### Route Optimization Map
+![Route Map](screenshot(69).png)
